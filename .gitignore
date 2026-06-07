@@ -1,0 +1,48 @@
+# Keep this GitHub repo as the distilled working database.
+# Raw contest archives, downloaded repositories, PDFs, build outputs, and binaries
+# stay local because GitHub rejects large files and the full corpus is >2GB.
+
+# Raw material folders
+/全国大学生电子设计竞赛/
+/浙江省大学生电子设计竞赛/
+
+# Common large/binary artifacts if added later
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.epro
+*.PcbDoc
+*.SchDoc
+*.dll
+*.exe
+*.lib
+*.a
+*.o
+*.obj
+*.crf
+*.map
+*.hex
+*.bin
+*.elf
+
+# Build/cache folders
+Debug/
+Release/
+Objects/
+OBJ/
+Listings/
+build/
+dist/
+__pycache__/
+.venv/
+.jxbrowser.userdata/
+
