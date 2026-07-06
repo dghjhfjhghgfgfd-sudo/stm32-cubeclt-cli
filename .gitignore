@@ -5,6 +5,8 @@
 # Raw material folders
 /全国大学生电子设计竞赛/
 /浙江省大学生电子设计竞赛/
+# Local raw-corpus copy (3.1GB: original PDFs, repos, binaries) - never upload
+/电赛/
 
 # Common large/binary artifacts if added later
 *.zip

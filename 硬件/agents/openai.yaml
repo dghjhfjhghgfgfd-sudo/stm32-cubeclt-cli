@@ -1,0 +1,4 @@
+interface:
+  display_name: "STM32 CubeCLT CLI"
+  short_description: "Automate STM32 CLI build and flash workflows."
+  default_prompt: "Use $stm32-cubeclt-cli to create, build, and flash a minimal STM32 project from the command line."
